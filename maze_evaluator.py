@@ -10,7 +10,7 @@ from eckity.evaluators.simple_individual_evaluator import SimpleIndividualEvalua
 from maze_generator import random_maze_generator
 
 # Should we the maze size -> n*m
-MAX_SOLUTION_LENGTH = 16
+MAX_SOLUTION_LENGTH = 100
 
 
 class Directions(Enum):
@@ -35,7 +35,7 @@ class MazeEvaluator(SimpleIndividualEvaluator):
         The number of columns in the maze
     """
 
-    def __init__(self, n=4, m=4):
+    def __init__(self, n=10, m=10):
         super().__init__()
 
         # Generate a random maze for the problem
