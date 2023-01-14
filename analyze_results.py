@@ -37,7 +37,7 @@ def _plot_graph(gen_to_fitness: List[List[int]]):
     plt.xlabel("Generation #")
     plt.ylabel("Average Fitness")
     plt.plot(x, y)
-    plt.axhline(color='r')
+    plt.axhline(color='g', linestyle='--')
     plt.savefig("statistics.png")
     print("\n\nStatistics graph saved to statistics.png!\n\n")
 

@@ -52,8 +52,8 @@ def random_maze_generator(n, m, start, end):
                 for _ in range(rows))
 
     # Auxiliary matrices to avoid cycles
-    seen = list(list(False for _ in range(cols))
-                for _ in range(rows))
+    visited = list(list(False for _ in range(cols))
+                   for _ in range(rows))
     previous = list(list((-1, -1)
                          for _ in range(cols)) for _ in range(rows))
 
@@ -68,9 +68,9 @@ def random_maze_generator(n, m, start, end):
     while s.not_empty():
 
         # Remove the position of the Stack
-        # and mark it as seen
+        # and mark it as visited
         x, y = s.pop()
-        seen[x][y] = True
+        visited[x][y] = True
 
         # Check if it will create a cycle
         # if the adjacent position is valid
@@ -105,12 +105,12 @@ def random_maze_generator(n, m, start, end):
         # Before inserting any position,
         # check if it is in the boundaries of
         # the maze
-        # and if it were seen (to avoid cycles)
+        # and if it were visited (to avoid cycles)
 
-        # If adj position is valid and was not seen yet
-        if (x + 1 < rows) and seen[x + 1][y] is False:
-            # Mark the adj position as seen
-            seen[x + 1][y] = True
+        # If adj position is valid and was not visited yet
+        if (x + 1 < rows) and visited[x + 1][y] is False:
+            # Mark the adj position as visited
+            visited[x + 1][y] = True
 
             # Memorize the position to insert the
             # position in the stack
@@ -120,9 +120,9 @@ def random_maze_generator(n, m, start, end):
             # previous position on the path
             previous[x + 1][y] = (x, y)
 
-        if (0 < x) and seen[x - 1][y] is False:
-            # Mark the adj position as seen
-            seen[x - 1][y] = True
+        if (0 < x) and visited[x - 1][y] is False:
+            # Mark the adj position as visited
+            visited[x - 1][y] = True
 
             # Memorize the position to insert the
             # position in the stack
@@ -132,9 +132,9 @@ def random_maze_generator(n, m, start, end):
             # previous position on the path
             previous[x - 1][y] = (x, y)
 
-        if (y + 1 < cols) and seen[x][y + 1] is False:
-            # Mark the adj position as seen
-            seen[x][y + 1] = True
+        if (y + 1 < cols) and visited[x][y + 1] is False:
+            # Mark the adj position as visited
+            visited[x][y + 1] = True
 
             # Memorize the position to insert the
             # position in the stack
@@ -144,9 +144,9 @@ def random_maze_generator(n, m, start, end):
             # previous position on the path
             previous[x][y + 1] = (x, y)
 
-        if (y > 0) and seen[x][y - 1] is False:
-            # Mark the adj position as seen
-            seen[x][y - 1] = True
+        if (y > 0) and visited[x][y - 1] is False:
+            # Mark the adj position as visited
+            visited[x][y - 1] = True
 
             # Memorize the position to insert the
             # position in the stack

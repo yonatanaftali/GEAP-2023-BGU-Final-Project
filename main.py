@@ -7,28 +7,26 @@ from eckity.genetic_operators.selections.tournament_selection import TournamentS
 from eckity.statistics.best_average_worst_statistics import BestAverageWorstStatistics
 from eckity.subpopulation import Subpopulation
 
-from maze_evaluator import MazeEvaluator, MAX_SOLUTION_LENGTH
 from analyze_results import show_statistics, STATISTICS_FILE
+from maze_evaluator import MazeEvaluator, MAX_SOLUTION_LENGTH
+
+POPULATION_SIZE = 100
 
 algo = SimpleEvolution(
     Subpopulation(creators=GABitStringVectorCreator(length=MAX_SOLUTION_LENGTH, bounds=(0, 3)),
-                  population_size=50,
-                  # user-defined fitness evaluation method
+                  population_size=POPULATION_SIZE,
                   evaluator=MazeEvaluator(),
-                  # minimization problem (fitness is distance to exit), so lower fitness is better
                   higher_is_better=False,
-                  # genetic operators sequence to be applied in each generation
                   operators_sequence=[
-                      VectorKPointsCrossover(probability=0.5, k=3),
-                      IntVectorOnePointMutation(probability=0.1)
+                      VectorKPointsCrossover(k=1),
+                      IntVectorOnePointMutation(probability=0.2, arity=10),
                   ],
                   selection_methods=[
-                      # (selection method, selection probability) tuple
                       (TournamentSelection(tournament_size=4, higher_is_better=False), 1)
                   ]),
     breeder=SimpleBreeder(),
     max_workers=1,
-    max_generation=500,
+    max_generation=200,
     statistics=BestAverageWorstStatistics(output_stream=open(STATISTICS_FILE, 'w'))
 )
 
