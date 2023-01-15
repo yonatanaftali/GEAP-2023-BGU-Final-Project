@@ -177,32 +177,21 @@ the maze. The maze is then generated using the following steps:
 6. While the stack is not empty:
     1. Pop the top cell from the stack and mark is as visited.
     2. Decide if the cell can be marked as walkable:
-        - If the cell is the starting cell, mark it as walkable.
-        - If marking the cell as walkable will create a cycle in the maze, mark it as a wall. It does this by checking
+        - If the cell is the starting cell, mark it as walkable and as the starting cell.
+        - If marking the cell as walkable will create a cycle in the maze, mark it as a wall (0). It does this by
+          checking
           if the adjacent cell is in the boundaries of the maze, is marked as a walkable position, and is not the
           previous cell in the depth-first search path. If all these conditions are met, it means that the current
           cell must not be marked as a walkable cell to avoid creating a cycle. The code checks the adjacent position in
           all four directions (up, down, left, and right) to ensure that no cycle can be created.
-        - Otherwise, mark it as walkable.
+        - Otherwise, mark it as walkable (1).
     3. Randomly insert the unvisited neighbors of the cell into the stack. If any of these neighbors are the exit cell,
        insert it into the top of the stack so that it is visited first and won't be marked as a wall.
+    4. Mark the starting cell with 2 and the exit cell with 3.
 
-The generator first initializes two 2D arrays, maze and visited, which will be used to keep track of the maze and the
-positions that have been visited, respectively. A stack is also initialized and the starting position is inserted into
-it.
-
-The generator then enters a while loop that continues as long as the stack is not empty. In each iteration of the loop,
-the top position of the stack is removed and marked as visited. The generator then checks if any of the adjacent
-positions are valid (i.e. within the boundaries of the maze and not already marked as a path) and if so, marks them as
-walkable positions adds them to the stack, and marks the current position as their previous position on the path. This
-process is repeated until the stack is empty.
-
-Additionally, the generator checks for cycles by comparing the previous position in the path with the current position,
-and if it's the same, it will continue the loop without marking it.
-
-Our generator generates a single solution maze,
-
-Walls values are set to 0, walkable positions are set to 1, and the starting and ending positions are set to 2 and 3.
+The resulting maze is a matrix of size n x m, where each cell is either a wall (0), a walkable position (1), the start (
+2), or the exit (3). At this point, the maze is has a single solution path. The final step is to randomly break walls to
+create multiple solution paths. This is done by randomly selecting a wall and breaking it at a random chance.
 
 Finally, the maze array is returned, representing the generated random maze, as provided in an example above. In
 addition, we convert the "binary" maze in a visual representation, as shown below:
