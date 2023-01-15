@@ -1,188 +1,112 @@
+import random
 from random import randint
 
+import matplotlib.pyplot as plt
 
-# Class to define structure of a node
-class Node:
-    def __init__(self, value=None,
-                 next_element=None):
-        self.val = value
-        self.next = next_element
+from stack import Stack
 
 
-# Class to implement a stack
-class Stack:
-
-    # Constructor
-    def __init__(self):
-        self.head = None
-        self.length = 0
-
-    # Put an item on the top of the stack
-    def insert(self, data):
-        self.head = Node(data, self.head)
-        self.length += 1
-
-    # Return the top position of the stack
-    def pop(self):
-        if self.length == 0:
-            return None
-        else:
-            returned = self.head.val
-            self.head = self.head.next
-            self.length -= 1
-            return returned
-
-    # Return False if the stack is empty
-    # and true otherwise
-    def not_empty(self):
-        return bool(self.length)
-
-    # Return the top position of the stack
-    def top(self):
-        return self.head.val
+def break_walls(maze):
+    rows = len(maze)
+    cols = len(maze[0])
+    for i in range(rows):
+        for j in range(cols):
+            if maze[i][j] == 0 and random.random() < 0.1:
+                maze[i][j] = 1
 
 
-# Function to generate the random maze
-def random_maze_generator(n, m, start, end):
-    rows, cols = n, m
-
-    # Array with only walls (where paths will
-    # be created)
-    maze = list(list(0 for _ in range(cols))
-                for _ in range(rows))
-
-    # Auxiliary matrices to avoid cycles
-    visited = list(list(False for _ in range(cols))
-                   for _ in range(rows))
-    previous = list(list((-1, -1)
-                         for _ in range(cols)) for _ in range(rows))
-
-    s = Stack()
-
-    # Insert initial position
-    s.insert(start)
-
-    # Keep walking on the graph using dfs
-    # until we have no more paths to traverse
-    # (create)
-    while s.not_empty():
-
-        # Remove the position of the Stack
-        # and mark it as visited
-        x, y = s.pop()
-        visited[x][y] = True
-
-        # Check if it will create a cycle
-        # if the adjacent position is valid
-        # (is in the maze) and the position
-        # is not already marked as a path
-        # (was traversed during the dfs) and
-        # this position is not the one before it
-        # in the dfs path it means that
-        # the current position must not be marked.
-
-        # This is to avoid cycles with adj positions
-        if (x + 1 < rows) and maze[x + 1][y] == 1 \
-                and previous[x][y] != (x + 1, y):
-            continue
-        if (0 < x) and maze[x - 1][y] == 1 \
-                and previous[x][y] != (x - 1, y):
-            continue
-        if (y + 1 < cols) and maze[x][y + 1] == 1 \
-                and previous[x][y] != (x, y + 1):
-            continue
-        if (y > 0) and maze[x][y - 1] == 1 \
-                and previous[x][y] != (x, y - 1):
-            continue
-
-        # Mark as walkable position
-        maze[x][y] = 1
-
-        # Array to shuffle neighbours before
-        # insertion
-        to_stack = []
-
-        # Before inserting any position,
-        # check if it is in the boundaries of
-        # the maze
-        # and if it were visited (to avoid cycles)
-
-        # If adj position is valid and was not visited yet
-        if (x + 1 < rows) and visited[x + 1][y] is False:
-            # Mark the adj position as visited
-            visited[x + 1][y] = True
-
-            # Memorize the position to insert the
-            # position in the stack
-            to_stack.append((x + 1, y))
-
-            # Memorize the current position as its
-            # previous position on the path
-            previous[x + 1][y] = (x, y)
-
-        if (0 < x) and visited[x - 1][y] is False:
-            # Mark the adj position as visited
-            visited[x - 1][y] = True
-
-            # Memorize the position to insert the
-            # position in the stack
-            to_stack.append((x - 1, y))
-
-            # Memorize the current position as its
-            # previous position on the path
-            previous[x - 1][y] = (x, y)
-
-        if (y + 1 < cols) and visited[x][y + 1] is False:
-            # Mark the adj position as visited
-            visited[x][y + 1] = True
-
-            # Memorize the position to insert the
-            # position in the stack
-            to_stack.append((x, y + 1))
-
-            # Memorize the current position as its
-            # previous position on the path
-            previous[x][y + 1] = (x, y)
-
-        if (y > 0) and visited[x][y - 1] is False:
-            # Mark the adj position as visited
-            visited[x][y - 1] = True
-
-            # Memorize the position to insert the
-            # position in the stack
-            to_stack.append((x, y - 1))
-
-            # Memorize the current position as its
-            # previous position on the path
-            previous[x][y - 1] = (x, y)
-
-        # Indicates if Pf is a neighbour position
-        pf_flag = False
-        while len(to_stack):
-
-            # Remove random position
-            neighbour = to_stack.pop(randint(0, len(to_stack) - 1))
-
-            # Is the final position,
-            # remember that by marking the flag
-            if neighbour == end:
-                pf_flag = True
-
-            # Put on the top of the stack
-            else:
-                s.insert(neighbour)
-
-        # This way, Pf will be on the top
-        if pf_flag:
-            s.insert(end)
-
-    # Mark the initial position
-    x0, y0 = start
-    xf, yf = end
-    maze[x0][y0] = 2
-    maze[xf][yf] = 3
-
-    # Return maze formed by the traversed path
+def visualize_maze(maze, run_start_time):
+    print("Generated maze:")
+    print("----------------------------")
     for line in maze:
         print(line)
+    print("----------------------------\n")
+
+    maze_file_name = f'./output/{run_start_time}_maze.png'
+    print(f'Visual representation of the maze saved to {maze_file_name}')
+    fig = plt.figure(figsize=(10, 10))
+    plt.imshow(maze, cmap='flag')
+    plt.savefig(maze_file_name)
+    plt.close(fig)
+
+
+def generator(rows, cols, maze_start, maze_exit):
+    # Init maze and helper arrays
+    maze = list(list(0 for _ in range(cols))
+                for _ in range(rows))
+    visited = list(list(False for _ in range(cols))
+                   for _ in range(rows))
+    parent = list(list((-1, -1)
+                       for _ in range(cols)) for _ in range(rows))
+
+    # Init stack with start position
+    maze_builder_stack = Stack()
+    maze_builder_stack.push(maze_start)
+
+    while not maze_builder_stack.is_empty():
+        x, y = maze_builder_stack.pop()
+        visited[x][y] = True
+
+        # Mark the current cell as walkable only if it won't cause a loop
+        if (x + 1 < rows) and maze[x + 1][y] == 1 \
+                and parent[x][y] != (x + 1, y):
+            continue
+        if (0 < x) and maze[x - 1][y] == 1 \
+                and parent[x][y] != (x - 1, y):
+            continue
+        if (y + 1 < cols) and maze[x][y + 1] == 1 \
+                and parent[x][y] != (x, y + 1):
+            continue
+        if (y > 0) and maze[x][y - 1] == 1 \
+                and parent[x][y] != (x, y - 1):
+            continue
+        maze[x][y] = 1
+
+        # Add the current cell's unvisited neighbors to the stack in a random order
+        neighbours = []
+        if (x + 1 < rows) and visited[x + 1][y] is False:
+            visited[x + 1][y] = True
+            neighbours.append((x + 1, y))
+            parent[x + 1][y] = (x, y)
+
+        if (0 < x) and visited[x - 1][y] is False:
+            visited[x - 1][y] = True
+            neighbours.append((x - 1, y))
+            parent[x - 1][y] = (x, y)
+
+        if (y + 1 < cols) and visited[x][y + 1] is False:
+            visited[x][y + 1] = True
+            neighbours.append((x, y + 1))
+            parent[x][y + 1] = (x, y)
+
+        if (y > 0) and visited[x][y - 1] is False:
+            visited[x][y - 1] = True
+            neighbours.append((x, y - 1))
+            parent[x][y - 1] = (x, y)
+
+        # Shuffle the neighbors and add them to the stack
+        # Check if the neighbor is the exit to make sure it is the last one to be added, so it is the first to be popped
+        exit_cell_found = False
+        while len(neighbours):
+            neighbour = neighbours.pop(randint(0, len(neighbours) - 1))
+            if neighbour == maze_exit:
+                exit_cell_found = True
+                continue
+            maze_builder_stack.push(neighbour)
+
+        if exit_cell_found:
+            maze_builder_stack.push(maze_exit)
+
+    # Finally, mark the entrance and exit cells as with their distinct values
+    maze[maze_start[0]][maze_start[1]] = 2
+    maze[maze_exit[0]][maze_exit[1]] = 3
+
+    break_walls(maze)
+    return maze
+
+
+def random_maze_generator(rows, cols, maze_start, maze_exit, run_start_time):
+    maze = generator(rows, cols, maze_start, maze_exit)
+    visualize_maze(maze, run_start_time)
+
     return maze

@@ -1,14 +1,11 @@
 import re
-from typing import List
 
 import numpy as np
 from matplotlib import pyplot as plt
 
-STATISTICS_FILE = "statistics.txt"
 
-
-def _extract_fitness_data():
-    with open(STATISTICS_FILE) as f:
+def _extract_fitness_data(statistics_file_name):
+    with open(statistics_file_name) as f:
         data = []
         generation, average_fitness = None, None
         for line in f:
@@ -25,24 +22,25 @@ def _extract_fitness_data():
     return data
 
 
-def _print_all_data():
-    with open(STATISTICS_FILE) as f:
+def _print_all_data(statistics_file_name):
+    with open(statistics_file_name) as f:
         for line in f:
             print(line.strip())
 
 
-def _plot_graph(gen_to_fitness: List[List[int]]):
+def _plot_graph(gen_to_fitness, statistics_file_name):
     data = np.array(gen_to_fitness)
     x, y = data.T
     plt.xlabel("Generation #")
     plt.ylabel("Average Fitness")
     plt.plot(x, y)
     plt.axhline(color='g', linestyle='--')
-    plt.savefig("statistics.png")
-    print("\n\nStatistics graph saved to statistics.png!\n\n")
+    statistics_graph_file = statistics_file_name.replace(".txt", ".png")
+    plt.savefig(statistics_graph_file)
+    print(f'\n\nStatistics graph saved to {statistics_graph_file}\n\n')
 
 
-def show_statistics():
-    data = _extract_fitness_data()
-    _plot_graph(data)
-    _print_all_data()
+def show_statistics(statistics_file_name):
+    data = _extract_fitness_data(statistics_file_name)
+    _plot_graph(data, statistics_file_name)
+    _print_all_data(statistics_file_name)

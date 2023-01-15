@@ -1,17 +1,11 @@
-import random
 from enum import Enum
 from math import sqrt
+from random import randint
 from typing import List
 
 from eckity.evaluators.simple_individual_evaluator import SimpleIndividualEvaluator
 
 from maze_generator import random_maze_generator
-
-# Should we the maze size -> n*m
-MAX_SOLUTION_LENGTH = 100
-
-INVALID_SOLUTION_PENALTY = MAX_SOLUTION_LENGTH * 2
-WALL_PENALTY = 1
 
 
 class Directions(Enum):
@@ -34,18 +28,30 @@ class MazeEvaluator(SimpleIndividualEvaluator):
         The number of rows in the maze
     m: int
         The number of columns in the maze
+    strict: bool
+        If True, the individual will be invalidated for trying to move into a wall
+        If False, the individual will be penalized for trying to move into a wall
+    invalid_solution_penalty: int
+        The penalty for trying to move outside the maze
+    wall_penalty: int
+        The penalty for trying to move into a wall
     """
 
-    def __init__(self, n=10, m=10, strict=False):
+    def __init__(self, n=10, m=10, strict=False, invalid_solution_penalty=100, wall_penalty=1, run_start_time=None):
         super().__init__()
 
-        # Generate a random maze for the problem
-        self.strict = strict
-        self.start = (random.randint(0, n - 1), 0)
-        self.end = (random.randint(0, n - 1), m - 1)
+        # Initialize settings
         self.n = n
         self.m = m
-        self.maze = random_maze_generator(self.n, self.m, self.start, self.end)
+        self.strict = strict
+        self.invalid_solution_penalty = invalid_solution_penalty
+        self.wall_penalty = wall_penalty
+        self.start = (randint(0, n - 1), 0)
+        self.end = (randint(0, n - 1), m - 1)
+        self.run_start_time = run_start_time
+
+        # Generate a random maze for the problem
+        self.maze = random_maze_generator(self.n, self.m, self.start, self.end, self.run_start_time)
 
     def _evaluate_individual(self, individual):
         """
@@ -83,14 +89,14 @@ class MazeEvaluator(SimpleIndividualEvaluator):
 
             # If the individual tries to move outside the maze, invalidate solution
             if current_position == new_position:
-                return distance_from_exit(current_position, self.end) + INVALID_SOLUTION_PENALTY
+                return distance_from_exit(current_position, self.end) + self.invalid_solution_penalty
 
             # If the individual tries to move into a wall, don't move and penalize solution
             if self.maze[new_position[0]][new_position[1]] == 0:
                 if self.strict:
-                    return distance_from_exit(current_position, self.end) + INVALID_SOLUTION_PENALTY
+                    return distance_from_exit(current_position, self.end) + self.invalid_solution_penalty
                 else:
-                    penalty += WALL_PENALTY
+                    penalty += self.wall_penalty
                     continue
 
             # Check if the individual reached the exit

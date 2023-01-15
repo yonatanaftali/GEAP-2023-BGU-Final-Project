@@ -1,0 +1,6000 @@
+generation #0
+subpopulation #0
+best fitness 1007.211102550928
+worst fitness 1009.8488578017962
+average fitness 1008.9957627088688
+
+generation #1
+subpopulation #0
+best fitness 48.47213595499958
+worst fitness 1009.4868329805051
+average fitness 1003.4293171329679
+
+generation #2
+subpopulation #0
+best fitness 46.60555127546399
+worst fitness 1009.8488578017962
+average fitness 983.7686292721055
+
+generation #3
+subpopulation #0
+best fitness 46.3851648071345
+worst fitness 1009.8488578017962
+average fitness 930.8491760864301
+
+generation #4
+subpopulation #0
+best fitness 46.47213595499958
+worst fitness 1009.8488578017962
+average fitness 835.2567856137148
+
+generation #5
+subpopulation #0
+best fitness 44.3851648071345
+worst fitness 1009.8488578017962
+average fitness 577.303887047042
+
+generation #6
+subpopulation #0
+best fitness 40.3851648071345
+worst fitness 1009.8488578017962
+average fitness 413.9699346860852
+
+generation #7
+subpopulation #0
+best fitness 36.60555127546399
+worst fitness 1009.8488578017962
+average fitness 331.54205840074667
+
+generation #8
+subpopulation #0
+best fitness 36.60555127546399
+worst fitness 1009.8488578017962
+average fitness 253.51304514467617
+
+generation #9
+subpopulation #0
+best fitness 34.60555127546399
+worst fitness 1009.8488578017962
+average fitness 252.22431563342795
+
+generation #10
+subpopulation #0
+best fitness 34.242640687119284
+worst fitness 1009.8488578017962
+average fitness 193.42602446496497
+
+generation #11
+subpopulation #0
+best fitness 34.3851648071345
+worst fitness 1009.4868329805051
+average fitness 269.1110460116279
+
+generation #12
+subpopulation #0
+best fitness 32.60555127546399
+worst fitness 1009.8488578017962
+average fitness 166.65388014610778
+
+generation #13
+subpopulation #0
+best fitness 30.605551275463988
+worst fitness 1009.8488578017962
+average fitness 232.30402631565977
+
+generation #14
+subpopulation #0
+best fitness 30.385164807134505
+worst fitness 1009.8488578017962
+average fitness 244.9690481433156
+
+generation #15
+subpopulation #0
+best fitness 28.605551275463988
+worst fitness 1009.8488578017962
+average fitness 233.94522849595756
+
+generation #16
+subpopulation #0
+best fitness 26.605551275463988
+worst fitness 1008.9442719099992
+average fitness 101.14050136964107
+
+generation #17
+subpopulation #0
+best fitness 26.605551275463988
+worst fitness 1009.8488578017962
+average fitness 143.5631465802372
+
+generation #18
+subpopulation #0
+best fitness 24.605551275463988
+worst fitness 1009.8488578017962
+average fitness 142.43005889787983
+
+generation #19
+subpopulation #0
+best fitness 24.605551275463988
+worst fitness 1009.4868329805051
+average fitness 92.76736533039403
+
+generation #20
+subpopulation #0
+best fitness 22.605551275463988
+worst fitness 1009.8488578017962
+average fitness 87.14496769682691
+
+generation #21
+subpopulation #0
+best fitness 22.605551275463988
+worst fitness 1009.8488578017962
+average fitness 130.0208951204945
+
+generation #22
+subpopulation #0
+best fitness 20.605551275463988
+worst fitness 1009.8488578017962
+average fitness 113.9443656301835
+
+generation #23
+subpopulation #0
+best fitness 20.605551275463988
+worst fitness 1009.8488578017962
+average fitness 53.43544915913606
+
+generation #24
+subpopulation #0
+best fitness 20.605551275463988
+worst fitness 1009.8488578017962
+average fitness 81.93873681210579
+
+generation #25
+subpopulation #0
+best fitness 18.605551275463988
+worst fitness 1009.8488578017962
+average fitness 76.16257569740428
+
+generation #26
+subpopulation #0
+best fitness 18.605551275463988
+worst fitness 1009.8488578017962
+average fitness 70.77053956584865
+
+generation #27
+subpopulation #0
+best fitness 18.605551275463988
+worst fitness 1009.8488578017962
+average fitness 60.04937620951178
+
+generation #28
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 74.68714197216464
+
+generation #29
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1004.4721359549995
+average fitness 33.98557121733202
+
+generation #30
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 78.20551383877236
+
+generation #31
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 72.87955776068291
+
+generation #32
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 106.98416429748151
+
+generation #33
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 71.66144867980611
+
+generation #34
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 46.34494212179022
+
+generation #35
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 36.495660746866776
+
+generation #36
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 76.33342275513112
+
+generation #37
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.4868329805051
+average fitness 46.44086064356172
+
+generation #38
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.4868329805051
+average fitness 86.30456889705972
+
+generation #39
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 91.33053883521002
+
+generation #40
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 56.29176075856465
+
+generation #41
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.4868329805051
+average fitness 86.1965297410708
+
+generation #42
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1008.9442719099992
+average fitness 76.11047440291266
+
+generation #43
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1007.211102550928
+average fitness 51.37811006103047
+
+generation #44
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 61.497015529736764
+
+generation #45
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 41.56676588745189
+
+generation #46
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1007.211102550928
+average fitness 31.584634544595957
+
+generation #47
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 66.3671936936602
+
+generation #48
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1007.211102550928
+average fitness 31.688579031841314
+
+generation #49
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1008.9442719099992
+average fitness 26.59657780203435
+
+generation #50
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.4868329805051
+average fitness 101.39348690658608
+
+generation #51
+subpopulation #0
+best fitness 16.605551275463988
+worst fitness 1009.8488578017962
+average fitness 71.38747170847356
+
+generation #52
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1007.211102550928
+average fitness 31.66027263501399
+
+generation #53
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.4868329805051
+average fitness 81.46778561447316
+
+generation #54
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.8488578017962
+average fitness 41.48756629275405
+
+generation #55
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.8488578017962
+average fitness 81.20241891065709
+
+generation #56
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.4868329805051
+average fitness 61.062696601782264
+
+generation #57
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.97275940205687
+
+generation #58
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.639037858520595
+
+generation #59
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.93747033081107
+
+generation #60
+subpopulation #0
+best fitness 14.60555127546399
+worst fitness 1009.8488578017962
+average fitness 89.74770291517183
+
+generation #61
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 74.87442350974355
+
+generation #62
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 24.686549582675838
+
+generation #63
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 34.7749111900846
+
+generation #64
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.31325625594585
+
+generation #65
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 83.66816830808244
+
+generation #66
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.23967794389999
+
+generation #67
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 27.920433654891013
+
+generation #68
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 42.99940120612552
+
+generation #69
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 82.95645505568888
+
+generation #70
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 47.55923795927343
+
+generation #71
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 47.46805485027295
+
+generation #72
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1007.211102550928
+average fitness 32.906577802034334
+
+generation #73
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1004.4721359549995
+average fitness 22.66421712225935
+
+generation #74
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.16510260150507
+
+generation #75
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 22.907627657720433
+
+generation #76
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 72.84477503300275
+
+generation #77
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 82.69994786415718
+
+generation #78
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 42.78267048916563
+
+generation #79
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 22.640922567569877
+
+generation #80
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 47.740672921641945
+
+generation #81
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1004.4721359549995
+average fitness 18.114217122259348
+
+generation #82
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 32.91330970709562
+
+generation #83
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 47.54390949562505
+
+generation #84
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1004.0
+average fitness 17.752523519086672
+
+generation #85
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 52.8822190175612
+
+generation #86
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 37.747938946461915
+
+generation #87
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 68.08403976119615
+
+generation #88
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 42.784931819926044
+
+generation #89
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 92.80942941850972
+
+generation #90
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 42.56836980129772
+
+generation #91
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 37.7511404113476
+
+generation #92
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 37.91638303405054
+
+generation #93
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 63.19266603357441
+
+generation #94
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 67.49912953806982
+
+generation #95
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 27.561500654623515
+
+generation #96
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 42.490382106416774
+
+generation #97
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 57.54491422673124
+
+generation #98
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 27.689988337495425
+
+generation #99
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 68.05820923039296
+
+generation #100
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 48.12740589833759
+
+generation #101
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.03535962960132
+
+generation #102
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 32.887264820504704
+
+generation #103
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 32.67074128134921
+
+generation #104
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 52.67422078436653
+
+generation #105
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 37.79504834085982
+
+generation #106
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 27.836765273148227
+
+generation #107
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 57.74626651311675
+
+generation #108
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 68.12324605781161
+
+generation #109
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 32.71114486676269
+
+generation #110
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 87.94639800664733
+
+generation #111
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 27.839988337495424
+
+generation #112
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 47.92739551099891
+
+generation #113
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 17.786084687086102
+
+generation #114
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 57.66684103990135
+
+generation #115
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 27.77137065192661
+
+generation #116
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 37.70644047477084
+
+generation #117
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 47.7434028132631
+
+generation #118
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 32.711960581118106
+
+generation #119
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.074456744170284
+
+generation #120
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 62.69218518099222
+
+generation #121
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 32.621045520735805
+
+generation #122
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 47.584521361469854
+
+generation #123
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.0622577482985
+average fitness 22.672167731225844
+
+generation #124
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 32.93641591769563
+
+generation #125
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.4868329805051
+average fitness 47.697566097386144
+
+generation #126
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 26.605551275463988
+average fitness 12.91488419886167
+
+generation #127
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1009.8488578017962
+average fitness 27.7786885032441
+
+generation #128
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 42.97236895913845
+
+generation #129
+subpopulation #0
+best fitness 12.60555127546399
+worst fitness 1008.9442719099992
+average fitness 52.88755928949928
+
+generation #130
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 58.34104811120866
+
+generation #131
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 27.910573212117285
+
+generation #132
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1004.4721359549995
+average fitness 22.564217122259347
+
+generation #133
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 47.3901901797117
+
+generation #134
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 36.83249896183537
+
+generation #135
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 61.097925828196566
+
+generation #136
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 50.88447210060411
+
+generation #137
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 40.99045305659687
+
+generation #138
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 46.09069619297987
+
+generation #139
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 46.24573292500636
+
+generation #140
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 66.3584001138082
+
+generation #141
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 61.26308794771279
+
+generation #142
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1007.211102550928
+average fitness 35.754165573785116
+
+generation #143
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 60.98964972436538
+
+generation #144
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 31.036530004305597
+
+generation #145
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 56.1209179521866
+
+generation #146
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.77500071961936
+
+generation #147
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 41.26602270530012
+
+generation #148
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 50.889961346096406
+
+generation #149
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 40.73141453721403
+
+generation #150
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 65.99270760277675
+
+generation #151
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 35.66887255941362
+
+generation #152
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 45.90949888465438
+
+generation #153
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 66.28729859911975
+
+generation #154
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 25.879755502976614
+
+generation #155
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 41.14209232545455
+
+generation #156
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 46.34439641650636
+
+generation #157
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.995889919102304
+
+generation #158
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 55.92269775560025
+
+generation #159
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 61.00597349874526
+
+generation #160
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 30.712438546805178
+
+generation #161
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 30.878421349771966
+
+generation #162
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.9442719099992
+average fitness 45.83744610654928
+
+generation #163
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.83553779352476
+
+generation #164
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 51.09817910853502
+
+generation #165
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 20.753461411268333
+
+generation #166
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 46.31738793346269
+
+generation #167
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 40.99599786972236
+
+generation #168
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 65.9193555796703
+
+generation #169
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 46.20080641013389
+
+generation #170
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.98456032332701
+
+generation #171
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 15.799957683989199
+
+generation #172
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 45.98242747149308
+
+generation #173
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 66.27376547399054
+
+generation #174
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 30.830313471673932
+
+generation #175
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 45.76714919471698
+
+generation #176
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 120.99896072400648
+
+generation #177
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.75786781979354
+
+generation #178
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 20.67298544036652
+
+generation #179
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 31.154148429738683
+
+generation #180
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 45.981158654421876
+
+generation #181
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 71.273068488053
+
+generation #182
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 25.782034066245632
+
+generation #183
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.84474943424226
+
+generation #184
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.90477137089555
+
+generation #185
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 45.73756019315923
+
+generation #186
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 41.19634984559687
+
+generation #187
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 41.03205856554301
+
+generation #188
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 40.8734062005108
+
+generation #189
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 30.628546383373724
+
+generation #190
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 46.08995689068129
+
+generation #191
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 50.99272231267546
+
+generation #192
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 35.83588340121957
+
+generation #193
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 75.93416629226678
+
+generation #194
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 66.20547858186372
+
+generation #195
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 36.016065798884185
+
+generation #196
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 41.08896583670616
+
+generation #197
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 71.00373010338991
+
+generation #198
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.4868329805051
+average fitness 31.14323455447007
+
+generation #199
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 80.78597752452633
+
+generation #200
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 45.85718449429084
+
+generation #201
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 36.1976071264263
+
+generation #202
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 31.145370091257572
+
+generation #203
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1008.0622577482985
+average fitness 50.8418865558284
+
+generation #204
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 36.022794334666
+
+generation #205
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 90.92527981232854
+
+generation #206
+subpopulation #0
+best fitness 10.60555127546399
+worst fitness 1009.8488578017962
+average fitness 71.40218088818081
+
+generation #207
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 35.91883234821423
+
+generation #208
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 55.93327619781388
+
+generation #209
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 31.238910262450837
+
+generation #210
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 50.930753719174646
+
+generation #211
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.0
+average fitness 15.29865052218358
+
+generation #212
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 29.865728899225267
+
+generation #213
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 74.15994310223465
+
+generation #214
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 63.88465789841315
+
+generation #215
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1007.211102550928
+average fitness 23.99724487863666
+
+generation #216
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 19.032301219717766
+
+generation #217
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.6186885032441
+
+generation #218
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.37529889027159
+
+generation #219
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1007.211102550928
+average fitness 29.22614294629502
+
+generation #220
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 39.317398485308814
+
+generation #221
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.38844662550494
+
+generation #222
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.871549946173616
+
+generation #223
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 44.634938181307525
+
+generation #224
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.20890321291984
+
+generation #225
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 14.071011201958576
+
+generation #226
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 19.162983445581258
+
+generation #227
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 23.77180489401012
+
+generation #228
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.21224262153643
+
+generation #229
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 44.05298841450031
+
+generation #230
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 18.605551275463988
+average fitness 8.854884198861669
+
+generation #231
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.616560657987915
+
+generation #232
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.80665018752267
+
+generation #233
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.93697470488156
+
+generation #234
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.39412283080209
+
+generation #235
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.1774295024889
+
+generation #236
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 29.298467742876856
+
+generation #237
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.09154717604869
+
+generation #238
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 23.937090583815017
+
+generation #239
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.940744943632495
+
+generation #240
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.686878379137646
+
+generation #241
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.04802142664178
+
+generation #242
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.096549582675838
+
+generation #243
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 34.056272334512165
+
+generation #244
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.32415860972859
+
+generation #245
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 44.053054850272936
+
+generation #246
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24341324986569
+
+generation #247
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 89.9287986622681
+
+generation #248
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.37474845344561
+
+generation #249
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.127952734121116
+
+generation #250
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 44.20677224554253
+
+generation #251
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 16.605551275463988
+average fitness 8.695551275463991
+
+generation #252
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 94.71805825024127
+
+generation #253
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.10703047450479
+
+generation #254
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 54.89021037472546
+
+generation #255
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.811011201958577
+
+generation #256
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.88264003984436
+
+generation #257
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.88771718725518
+
+generation #258
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 34.30611221847119
+
+generation #259
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 48.873371881557475
+
+generation #260
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.99399116060715
+
+generation #261
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 74.87462056169281
+
+generation #262
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.2024830457484
+
+generation #263
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 8.60555127546399
+average fitness 8.605551275463991
+
+generation #264
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 48.981818681493216
+
+generation #265
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.365585954751293
+
+generation #266
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.634884198861668
+
+generation #267
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 13.762834807828165
+
+generation #268
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.42244223977283
+
+generation #269
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.95164762487858
+
+generation #270
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.159157837552726
+
+generation #271
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.757894811192559
+
+generation #272
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 29.158235094632236
+
+generation #273
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 24.16383311504001
+
+generation #274
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.155667796221678
+
+generation #275
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.26242783516698
+
+generation #276
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.516611401173414
+
+generation #277
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.216577802034344
+
+generation #278
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #279
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 29.002479019967332
+
+generation #280
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.15622204485788
+
+generation #281
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.772479019967335
+
+generation #282
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.34372567463304
+
+generation #283
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.142882428892534
+
+generation #284
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.116284012323156
+
+generation #285
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #286
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.082479383465106
+
+generation #287
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.93882868610703
+
+generation #288
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.798938481809344
+
+generation #289
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.99280320122197
+
+generation #290
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.46076793395192
+
+generation #291
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.329715029814455
+
+generation #292
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.95811485363733
+
+generation #293
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.685551275463991
+
+generation #294
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #295
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.52378261803695
+
+generation #296
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.11507700239234
+
+generation #297
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.36416878436841
+
+generation #298
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.880980548276256
+
+generation #299
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.3198720237343
+
+generation #300
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.2752710037265
+
+generation #301
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.828384263857505
+
+generation #302
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.23021778775424
+
+generation #303
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.13750445422038
+
+generation #304
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.210731461693264
+
+generation #305
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.135625887927386
+
+generation #306
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.22130588663971
+
+generation #307
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #308
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.42112918602935
+
+generation #309
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.08524807758657
+
+generation #310
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #311
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #312
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #313
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.07132651648115
+
+generation #314
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.18767003152675
+
+generation #315
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.51239595036139
+
+generation #316
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.00058305929379
+
+generation #317
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.47735435003945
+
+generation #318
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.90647882279607
+
+generation #319
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.737834994837655
+
+generation #320
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.348206099934046
+
+generation #321
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.75350162229161
+
+generation #322
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #323
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.93367612094407
+
+generation #324
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.119290607386876
+
+generation #325
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.078305195802905
+
+generation #326
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.96807663722321
+
+generation #327
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.923461411268327
+
+generation #328
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #329
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #330
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #331
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #332
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.444175495279204
+
+generation #333
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.644944715730006
+
+generation #334
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.34653887086153
+
+generation #335
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.22544765033419
+
+generation #336
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.90218856823993
+
+generation #337
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.11100415242758
+
+generation #338
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.887805281657805
+
+generation #339
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.945455591544295
+
+generation #340
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #341
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #342
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1433031890368
+
+generation #343
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.087545455739967
+
+generation #344
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #345
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #346
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.35367584573237
+
+generation #347
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.37244223977282
+
+generation #348
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.96164762487858
+
+generation #349
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.159157837552726
+
+generation #350
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.767894811192559
+
+generation #351
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 29.138235094632236
+
+generation #352
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 29.07316603843769
+
+generation #353
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.145667796221677
+
+generation #354
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.17242783516698
+
+generation #355
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.52661140117341
+
+generation #356
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #357
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #358
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 29.002479019967332
+
+generation #359
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.166222044857875
+
+generation #360
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.782479019967337
+
+generation #361
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.19372567463304
+
+generation #362
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.102882428892535
+
+generation #363
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.00628401232316
+
+generation #364
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.915328444446814
+
+generation #365
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #366
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #367
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #368
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.90280320122197
+
+generation #369
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.42076793395192
+
+generation #370
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.279715029814454
+
+generation #371
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.95811485363733
+
+generation #372
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #373
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #374
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.41378261803695
+
+generation #375
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.04507700239235
+
+generation #376
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #377
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #378
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #379
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.3152710037265
+
+generation #380
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #381
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.250217787754245
+
+generation #382
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #383
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #384
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #385
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.22130588663971
+
+generation #386
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.12083644998429
+
+generation #387
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #388
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #389
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #390
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #391
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #392
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #393
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.12767003152675
+
+generation #394
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.482395950361386
+
+generation #395
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #396
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.51735435003945
+
+generation #397
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.90647882279607
+
+generation #398
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.627834994837656
+
+generation #399
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.298206099934045
+
+generation #400
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.75350162229161
+
+generation #401
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #402
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #403
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.119290607386876
+
+generation #404
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #405
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #406
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #407
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #408
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #409
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #410
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.26795645418223
+
+generation #411
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4641754952792
+
+generation #412
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #413
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #414
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #415
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #416
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #417
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #418
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #419
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #420
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #421
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #422
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #423
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #424
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #425
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #426
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.332442239772824
+
+generation #427
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.96164762487858
+
+generation #428
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.159157837552726
+
+generation #429
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #430
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #431
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #432
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #433
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #434
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #435
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #436
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #437
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #438
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #439
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #440
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #441
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #442
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #443
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #444
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #445
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #446
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #447
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #448
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #449
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #450
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #451
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #452
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #453
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #454
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #455
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #456
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #457
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #458
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #459
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #460
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #461
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #462
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #463
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #464
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #465
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #466
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #467
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #468
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #469
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #470
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #471
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #472
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #473
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #474
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #475
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #476
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #477
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #478
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #479
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #480
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #481
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #482
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #483
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #484
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #485
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #486
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #487
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #488
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #489
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #490
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #491
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #492
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #493
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #494
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #495
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #496
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #497
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #498
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #499
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #500
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #501
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #502
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #503
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #504
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #505
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #506
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #507
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #508
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #509
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #510
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #511
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #512
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #513
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #514
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #515
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #516
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #517
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #518
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #519
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #520
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #521
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #522
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #523
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #524
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #525
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #526
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #527
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #528
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #529
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #530
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #531
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #532
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #533
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #534
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #535
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #536
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #537
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #538
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #539
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #540
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #541
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #542
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #543
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #544
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #545
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #546
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #547
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #548
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #549
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #550
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #551
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #552
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #553
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #554
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #555
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #556
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #557
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #558
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #559
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #560
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #561
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #562
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #563
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #564
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #565
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #566
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #567
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #568
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #569
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #570
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #571
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #572
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #573
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #574
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #575
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #576
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #577
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #578
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #579
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #580
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #581
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #582
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #583
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #584
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #585
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #586
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #587
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #588
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #589
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #590
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #591
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #592
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #593
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #594
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #595
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #596
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #597
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #598
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #599
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #600
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #601
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #602
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #603
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #604
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #605
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #606
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #607
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #608
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #609
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #610
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #611
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #612
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #613
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #614
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #615
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #616
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #617
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #618
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #619
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #620
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #621
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #622
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #623
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #624
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #625
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #626
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #627
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #628
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #629
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #630
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #631
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #632
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #633
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #634
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #635
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #636
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #637
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #638
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #639
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #640
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #641
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #642
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #643
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #644
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #645
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #646
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #647
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #648
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #649
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #650
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #651
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #652
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #653
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #654
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #655
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #656
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #657
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #658
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #659
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #660
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #661
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #662
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #663
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #664
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #665
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #666
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #667
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #668
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #669
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #670
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #671
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #672
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #673
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #674
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #675
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #676
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #677
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #678
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #679
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #680
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #681
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #682
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #683
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #684
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #685
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #686
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #687
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #688
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #689
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #690
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #691
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #692
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #693
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #694
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #695
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #696
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #697
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #698
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #699
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #700
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #701
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #702
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #703
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #704
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #705
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #706
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #707
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #708
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #709
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #710
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #711
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #712
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #713
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #714
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #715
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #716
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #717
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #718
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #719
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #720
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #721
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #722
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #723
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #724
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #725
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #726
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #727
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #728
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #729
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #730
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #731
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #732
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #733
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #734
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #735
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #736
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #737
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #738
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #739
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #740
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #741
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #742
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #743
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #744
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #745
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #746
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #747
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #748
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #749
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #750
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #751
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #752
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #753
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #754
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #755
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #756
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #757
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #758
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #759
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #760
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #761
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #762
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #763
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #764
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #765
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #766
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #767
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #768
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #769
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #770
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #771
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #772
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #773
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #774
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #775
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #776
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #777
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #778
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #779
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #780
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #781
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #782
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #783
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #784
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #785
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #786
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #787
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #788
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #789
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #790
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #791
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #792
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #793
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #794
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #795
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #796
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #797
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #798
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #799
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #800
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #801
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #802
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #803
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #804
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #805
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #806
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #807
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #808
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #809
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #810
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #811
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #812
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #813
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #814
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #815
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #816
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #817
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #818
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #819
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #820
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #821
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #822
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #823
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #824
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #825
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #826
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #827
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #828
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #829
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #830
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #831
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #832
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #833
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #834
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #835
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #836
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #837
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #838
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #839
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #840
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #841
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #842
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #843
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #844
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #845
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #846
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #847
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #848
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #849
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #850
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #851
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #852
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #853
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #854
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #855
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #856
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #857
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #858
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #859
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #860
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #861
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #862
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #863
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #864
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #865
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #866
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #867
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #868
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #869
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #870
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #871
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #872
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #873
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #874
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #875
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #876
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #877
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #878
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #879
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #880
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #881
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #882
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #883
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #884
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #885
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #886
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #887
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #888
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #889
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #890
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #891
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #892
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #893
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #894
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #895
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #896
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #897
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #898
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #899
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #900
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #901
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #902
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #903
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #904
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #905
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #906
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #907
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #908
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #909
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #910
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #911
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #912
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #913
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #914
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #915
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #916
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #917
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #918
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #919
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #920
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
+generation #921
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 33.85280320122197
+
+generation #922
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.24076793395192
+
+generation #923
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.259715029814455
+
+generation #924
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.90811485363733
+
+generation #925
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 12.60555127546399
+average fitness 8.675551275463992
+
+generation #926
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1004.4721359549995
+average fitness 13.82488419886167
+
+generation #927
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 64.31378261803695
+
+generation #928
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 79.05507700239235
+
+generation #929
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.28416878436841
+
+generation #930
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83098054827626
+
+generation #931
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.2898720237343
+
+generation #932
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.265271003726504
+
+generation #933
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.838384263857506
+
+generation #934
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.210217787754246
+
+generation #935
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.10750445422038
+
+generation #936
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.12073146169327
+
+generation #937
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 24.125625887927384
+
+generation #938
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.171305886639715
+
+generation #939
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13083644998429
+
+generation #940
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.37112918602935
+
+generation #941
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 84.04524807758656
+
+generation #942
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 69.02166120847987
+
+generation #943
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.03339756913235
+
+generation #944
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 13.817244878636668
+
+generation #945
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.04132651648115
+
+generation #946
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.13767003152675
+
+generation #947
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 49.43239595036139
+
+generation #948
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.020583059293784
+
+generation #949
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.42735435003945
+
+generation #950
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.92647882279607
+
+generation #951
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.50783499483766
+
+generation #952
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 24.328206099934047
+
+generation #953
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.76350162229161
+
+generation #954
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.97620487012708
+
+generation #955
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 38.92367612094407
+
+generation #956
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.10929060738688
+
+generation #957
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.038305195802906
+
+generation #958
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 38.89807663722321
+
+generation #959
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.933461411268325
+
+generation #960
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.05135074074294
+
+generation #961
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 53.809071282151756
+
+generation #962
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 18.779051340459826
+
+generation #963
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 24.27795645418223
+
+generation #964
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.4541754952792
+
+generation #965
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.65494471573001
+
+generation #966
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 49.30653887086153
+
+generation #967
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 19.25544765033419
+
+generation #968
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.922188568239925
+
+generation #969
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 34.12100415242758
+
+generation #970
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 24.605551275463988
+average fitness 8.897805281657805
+
+generation #971
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 28.955455591544297
+
+generation #972
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 34.1586885032441
+
+generation #973
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 23.768688503244103
+
+generation #974
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.1133031890368
+
+generation #975
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 19.097545455739965
+
+generation #976
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.83233830563223
+
+generation #977
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 33.951289842232484
+
+generation #978
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 59.25367584573237
+
+generation #979
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 54.28244223977283
+
+generation #980
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 23.91164762487858
+
+generation #981
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 39.169157837552724
+
+generation #982
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 13.747894811192559
+
+generation #983
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 28.968235094632238
+
+generation #984
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.973166038437693
+
+generation #985
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.055667796221677
+
+generation #986
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 29.022427835166983
+
+generation #987
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 49.476611401173415
+
+generation #988
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 14.226577802034344
+
+generation #989
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 33.702270566035445
+
+generation #990
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.95247901996733
+
+generation #991
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 44.11622204485788
+
+generation #992
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 28.732479019967336
+
+generation #993
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.0622577482985
+average fitness 39.14372567463304
+
+generation #994
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.11288242889253
+
+generation #995
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 43.99628401232316
+
+generation #996
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.4868329805051
+average fitness 39.875328444446815
+
+generation #997
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1009.8488578017962
+average fitness 59.03247938346511
+
+generation #998
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1003.0
+average fitness 18.89882868610703
+
+generation #999
+subpopulation #0
+best fitness 8.60555127546399
+worst fitness 1008.9442719099992
+average fitness 18.738938481809342
+
