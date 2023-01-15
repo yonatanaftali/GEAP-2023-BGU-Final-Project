@@ -200,19 +200,73 @@ Blue = Entrance, Red = Wall, White = Path, Black = Exit
 
 ![Visual Image Of Maze](images/visual-maze-1.png?raw=true "Visual Image Of Maze")
 
-### Maze Solver
+### Solution Evaluation & Fitness Function
+
+Given a path, the maze solver will determine if the path is valid or not. It does this by navigating the maze using the
+path and checking if the path reaches the exit. If in any point the path goes out of bounds - it is invalidated and the
+individual is severely penalized.
+
+The player fitness is determined by the number of steps it takes to reach the exit. The lower the number of steps, the
+lower (and better) the fitness. The closer the player is to the exit, the lower (and better) the fitness.
+
+We included two modes of operation: strict and non-strict. In strict mode, if in any
+point the path bumps into a wall, it is invalidated and the individual is severely penalized. In non-strict mode, the
+path is not invalidated if it bumps into a wall, but it is gently penalized.
+
+We defined an Enum class to represent the possible directions that a path can take:
+
+    class Direction(Enum):
+       UP = 0
+       RIGHT = 1
+       DOWN = 2
+       LEFT = 3
+
+For every step in the solution, given the current position of the player, we try to move it in the direction of the
+step:
+
+      direction = Directions(individual.cell_value(i))
+      if direction == Directions.UP:
+          new_position = self.move_up(current_position)
+      elif direction == Directions.RIGHT:
+          new_position = self.move_right(current_position)
+      elif direction == Directions.DOWN:
+          new_position = self.move_down(current_position)
+      elif direction == Directions.LEFT:
+          new_position = self.move_left(current_position)
+
+Then we check if the new position is valid:
+
+- If the new position is equal to the current position, it means that the player is trying to move in a direction
+  that is not allowed (e.g. trying to move up when the player is already at the top of the maze). In this case, the
+  path is invalid and the individual is severely penalized. The fitness score is set to the player current distance from
+  the exit plus the invalid solution penalty.
+- If the new position is a **wall**, it means that the player is trying to move into a wall. In this case, we check if
+  strict mode is enabled:
+    - If it is, the path is invalid and the individual is severely penalized. The fitness score is set to the player
+      current distance from the exit plus the invalid solution penalty.
+    - If strict mode is not enabled, we keep the player at the same place they have been before they tried to move, and
+      we gently penalize their future fitness score by adding the wall bump penalty to it.
+- If the new position is the **exit**, it means that the player has reached the exit. In this case, the fitness score is
+  set to 0 (the current distance from exit) plus any accumulated penalties minus the remaining steps in the player path.
+  We want to reward player paths that are shorter, so we subtract the remaining steps from the fitness score.
+- If the new position is a **walkable** position, it means that the player has moved to a valid position. In this case,
+  we update the current position of the player to the new position, and we continue to the next step in the path.
+
+Thus, an individual's fitness score signifies how close it is to the exit, and how many steps it took to reach it. The
+best individual is the one with the lowest fitness score (i.e. the one that is closest to the exit and took the least
+steps to reach it), and we want to keep and evolve the best individuals.
 
 ## Results
 
-### Strict: True, Generations: 500:
+### Strict: True, Generations: 500
 
 ![Strict: True, Generations: 500](images/result-1.png?raw=true "Strict: True, Generations: 500")
 
-### Strict: True, Generations: 1000:
+### Strict: True, Generations: 1000
 
 ![Strict: True, Generations: 500](images/result-2.png?raw=true "Strict: True, Generations: 500")
 
-### Strict: False, Generations: 200:
+### Strict: False, Generations: 200
 
 ![Strict: True, Generations: 500](images/result-3.png?raw=true "Strict: True, Generations: 500")
 
