@@ -74,8 +74,15 @@ def load_environment():
 def print_intro():
     global MAZE_ROWS, MAZE_COLS, MAX_SOLUTION_LENGTH, POPULATION_SIZE, MUTATION_RATE, MUTATION_ARITY, GENERATIONS, \
         STRICT, INVALID_SOLUTION_PENALTY, WALL_PENALTY, STATISTICS_FILE
-    print("Generic Algorithm Maze Solver")
-    print("----------------------------")
+    print(r"""    
+   _____            __  __                  _____       _                
+  / ____|   /\     |  \/  |                / ____|     | |               
+ | |  __   /  \    | \  / | __ _ _______  | (___   ___ | |_   _____ _ __ 
+ | | |_ | / /\ \   | |\/| |/ _` |_  / _ \  \___ \ / _ \| \ \ / / _ \ '__|
+ | |__| |/ ____ \  | |  | | (_| |/ /  __/  ____) | (_) | |\ V /  __/ |   
+  \_____/_/    \_\ |_|  |_|\__,_/___\___| |_____/ \___/|_| \_/ \___|_|                                                                                                                                                             
+    """)
+    print("------------RUN DETAILS-----------")
     print("Run Started At: " + RUN_START_TIME)
     print("Maze Size: ", MAZE_ROWS * MAZE_COLS)
     print("MAX_SOLUTION_LENGTH: ", MAX_SOLUTION_LENGTH)
@@ -87,7 +94,7 @@ def print_intro():
     print("INVALID_SOLUTION_PENALTY: ", INVALID_SOLUTION_PENALTY)
     print("WALL_PENALTY: ", WALL_PENALTY)
     print("Statistics File: ", STATISTICS_FILE)
-    print("----------------------------\n")
+    print("--------------------------------\n")
 
 
 if __name__ == '__main__':

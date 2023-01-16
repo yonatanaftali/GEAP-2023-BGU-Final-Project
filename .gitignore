@@ -1,4 +1,3 @@
 .idea
 venv
-statistics.txt
-statistics.png
+/output

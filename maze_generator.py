@@ -11,23 +11,21 @@ def break_walls(maze):
     cols = len(maze[0])
     for i in range(rows):
         for j in range(cols):
-            if maze[i][j] == 0 and random.random() < 0.1:
+            if maze[i][j] == 0 and random.random() < 0.2:
                 maze[i][j] = 1
 
 
 def visualize_maze(maze, run_start_time):
-    print("Generated maze:")
-    print("----------------------------")
+    print("----------GENERATED MAZE----------")
     for line in maze:
         print(line)
-    print("----------------------------\n")
-
     maze_file_name = f'./output/{run_start_time}_maze.png'
-    print(f'Visual representation of the maze saved to {maze_file_name}')
+    print(f'\nVisual representation of the maze saved to {maze_file_name}')
     fig = plt.figure(figsize=(10, 10))
     plt.imshow(maze, cmap='flag')
     plt.savefig(maze_file_name)
     plt.close(fig)
+    print("----------------------------------\n")
 
 
 def generator(rows, cols, maze_start, maze_exit):

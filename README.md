@@ -88,7 +88,6 @@ Overview section.
    [1, 0, 0, 1, 1, 0, 1, 1, 0, 1]
    [1, 1, 1, 0, 1, 1, 1, 0, 1, 3]
    ```
-
 2. **Initial population:** The next step is to create an initial population of candidate solutions. These solutions are
    suggested paths through the maze, and generated randomly.
    A solution is represented as a string of numbers, where each number represents a direction to move in the maze. The
@@ -107,6 +106,7 @@ Overview section.
       available.
     - A score higher than 0 means that the path did not solve the maze.
 
+
 4. **Selection:** In this step, the genetic algorithm selects the fittest paths to reproduce and pass on their genetic
    information to the next generation. Tournament selection is used to select the fittest individuals from the
    population for reproduction. A small number of individuals (the tournament size) are randomly selected from the
@@ -116,12 +116,14 @@ Overview section.
    individuals with potentially beneficial genetic variations while still maintaining a strong selection pressure on the
    population.
 
+
 5. **Crossover:** In this step, the genetic algorithm combines the genetic information of two paths to create new paths.
    The crossover is done by selecting two paths and swapping a single step randomly. Crossover contributes to the
    algorithm by combining the genetic information of two high-performing paths to create new paths that may be even
    better at navigating the maze. For example, if one parent has a path sequence that is particularly good at
    avoiding obstacles (walls and out of bounds), and another parent has a path sequence that is particularly good at
    finding the exit quickly, then their offspring will inherit the best of both worlds.
+
 
 6. **Mutation:** In this step, the genetic algorithm introduces small changes to the genetic information of the paths.
    The mutation is done by randomly changing the direction of a step in a path. Mutation contributes to the
@@ -130,11 +132,14 @@ Overview section.
    Additionally, mutation also helps to prevent the GA from getting stuck in a loop, where the same solutions are
    repeatedly generated.
 
+
 7. Repeat steps 4-6 for a number of generations: The genetic algorithm continues to repeat the selection, crossover, and
    mutation steps for a number of generations, until the optimal or near-optimal solution is found.
 
+
 8. **Termination:** The algorithm stops when a termination criterion is met. This can be a certain number ofz
    generations, or when a suggested solution path reaches a certain level of fitness.
+
 
 9. **Output:** The final output is the path that has the lowest fitness score and is considered to be the optimal or
    near-optimal solution.
@@ -154,7 +159,7 @@ We allow the user to control some important parameters of the algorithm, includi
 - Probability of mutation
 - Arity of the mutation
 - Max solution length
-- Use strict mode (wall bump = invalid solution)
+- Use strict mode (see Solution Evaluation & Fitness Function section)
 - Invalid solution penalty
 - Wall bump penalty
 
@@ -202,7 +207,8 @@ Blue = Entrance, Red = Wall, White = Path, Black = Exit
 
 ### EC-KitY Configuration
 
-1. **Initialization**: We used the `GABitStringVectorCreator(length=MAX_SOLUTION_LENGTH, bounds=(0, 3))` method to create
+1. **Initialization**: We used the `GABitStringVectorCreator(length=MAX_SOLUTION_LENGTH, bounds=(0, 3))` method to
+   create
    the initial population. This creator creates a population of strings in the length of `MAX_SOLUTION_LENGTH` with
    values between 0 and 3. The population size is determined by the `POPULATION_SIZE` parameter.
 
@@ -210,7 +216,8 @@ Blue = Entrance, Red = Wall, White = Path, Black = Exit
    population for reproduction. A small number of individuals (the tournament size) are randomly selected from the
    population, and the one with the lowest fitness is chosen as a parent for the next generation.
 
-3. **Crossover**: We used the `VectorKPointsCrossover(k=1)` method to combine the genetic information of two paths to create
+3. **Crossover**: We used the `VectorKPointsCrossover(k=1)` method to combine the genetic information of two paths to
+   create
    new paths. The crossover is done by selecting two paths and swapping a single step randomly.
 
 4. **Mutation**: We used the `IntVectorOnePointMutation(probability=MUTATION_RATE, arity=MUTATION_ARITY)` method to
@@ -219,7 +226,8 @@ Blue = Entrance, Red = Wall, White = Path, Black = Exit
 
 5. **Fitness**: We created our own fitness function, `MazeEvaluator` which is described in the next section.
 
-6. **Termination**: We define max number of generations, determined by the `MAX_GENERATIONS`parameter. We didn't define a
+6. **Termination**: We define max number of generations, determined by the `MAX_GENERATIONS`parameter. We didn't define
+   a
    TerminationChecker (early termination mechanism) since the paths are generated randomly, and we are not only
    interested in a solution that reaches the exit, but we care for the shortest path as well. If we had used an early
    termination mechanism, we would have missed the shortest path.
@@ -284,21 +292,136 @@ Thus, an individual's fitness score signifies how close it is to the exit, and h
 best individual is the one with the lowest fitness score (i.e. the one that is closest to the exit and took the least
 steps to reach it), and we want to keep and evolve the best individuals.
 
+### Output
+
+The program output the following details to the console:
+
+![Console Output](images/console-output.png?raw=true "Console Output")
+
+In the middle of the output, under the print `debug: random seed` you can find the best individual's path, and its
+fitness score.
+
+In addition, the program outputs the following files to the [output](./output) directory:
+
+- Maze image
+- Statistics file
+- Average fitness graph
+- Best fitness graph
+
+Every run is identified by a unique timestamp, and the output files are named accordingly.
+
 ## Results
 
-### Strict: True, Generations: 500
+The results of the experiment depend on the parameters that we set and the generated maze. We ran the experiment with
+different parameters, below are the results of the experiment with the following parameters:
 
-![Strict: True, Generations: 500](images/result-1.png?raw=true "Strict: True, Generations: 500")
+### Maze Size 5x5, Strict Mode, Population Size 30, Generations 100, Mutation Rate 0.1, Mutation Arity 1
 
-### Strict: True, Generations: 1000
+![Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Maze](images/results-1-maze.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Maze")
+![Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Avg Fitness](images/results-1-avg_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Avg Fitness")
+![Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Best Fitness](images/results-1-best_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Best Fitness")
 
-![Strict: True, Generations: 500](images/result-2.png?raw=true "Strict: True, Generations: 500")
+### Maze Size 7x7, Strict Mode, Population Size 30, Generations 100, Mutation Rate 0.1, Mutation Arity 1
 
-### Strict: False, Generations: 200
+![Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Maze](images/results-2-maze.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Maze")
+![Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Avg Fitness](images/results-2-avg_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Avg Fitness")
+![Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Best Fitness](images/results-2-best_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Best Fitness")
 
-![Strict: True, Generations: 500](images/result-3.png?raw=true "Strict: True, Generations: 500")
+### Maze Size 10x10, Strict Mode, Population Size 300, Generations 200, Mutation Rate 0.2, Mutation Arity 2
 
-## Summary
+![Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Maze](images/results-3-maze.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Maze")
+![Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Avg Fitness](images/results-3-avg_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Avg Fitness")
+![Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Best Fitness](images/results-3-best_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Best Fitness")
+
+### Maze Size 12x12, Population Size 300, Generations 300, Mutation Rate 0.2, Mutation Arity 10
+
+As you can see in this example the algorithm was not able to find a solution to the maze - but it got very close to it.
+The best fitness is 2, which means that the player distance from the exit is 2.
+
+![Maze Size 12x12, Population Size 300, Generations 300 - Maze](images/results-4-maze.png?raw=true "Maze Size 12x12, Population Size 300, Generations 300 - Maze")
+![Maze Size 12x12, Population Size 300, Generations 300 - Avg Fitness](images/results-4-avg_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 300 - Avg Fitness")
+![Maze Size 12x12, Population Size 300, Generations 300 - Best Fitness](images/results-4-best_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 300 - Best Fitness")
+
+### Maze Size 12x12, Population Size 500, Generations 500, Mutation Rate 0.2, Mutation Arity 10
+
+By increasing the population size, we were able to find a solution to the maze.
+
+![Maze Size 12x12, Population Size 500, Generations 500 - Maze](images/results-5-maze.png?raw=true "Maze Size 12x12, Population Size 500, Generations 500 - Maze")
+![Maze Size 12x12, Population Size 500, Generations 500 - Avg Fitness](images/results-5-avg_fitness.png?raw=true "Maze Size 12x12, Population Size 500, Generations 500 - Avg Fitness")
+![Maze Size 12x12, Population Size 500, Generations 500 - Best Fitness](images/results-5-best_fitness.png?raw=true "Maze Size 12x12, Population Size 500, Generations 500 - Best Fitness")
+
+## Conclusions & Summary
+
+### Strict Mode
+
+After running the experiment numerous times, on multiple mazes, with different parameters, we found a pattern that made
+us think about the necessity of strict mode. Take a look at the following maze:
+
+![Why Strict Mode Is Needed Maze](images/why-strict-mode-is-needed-maze.png?raw=true "Why Strict Mode Is Needed Maze")
+
+The best solution the algorithm provided for that maze
+was: `[0, 0, 2, 0, 1, 0, 2, 1, 3, 1, 2, 0, 2, 1, 1, 2, 3, 3, 1, 3, 2, 1, 3, 1, 0, 1, 2, 0, 1, 0, 2, 1, 3, 1, 0, 3, 2, 2, 3, 3, 0, 1, 0, 1, 3, 1, 3, 1, 0]`
+which translate
+to: `[up, up, down, up, right, up, down, right, left, right, down, up, down, right, right, down, left, left, right, left, down, right, left, right, up, right, down, up, right, up, down, right, left, right, up, left, down, down, left, left, up, right, up, right, left, right, left, right, up]`.
+
+If we follow the first 15 steps of the solution, we will get to the position (4,5), very close to the exit. However, in
+the next move the player will try to move down into a wall thus the solution will be invalidated and severely penalized.
+Thus, it won't matter how close the solution was to the exit, since it tried to make an illegal move it won't evolve.
+
+If we had allowed the player to try to move into a wall, and just penalize them for it, the solution would have evolved,
+and we would have found a solution that is much closer to the exit. Since we take into account the remaining steps in
+the player path when calculating the fitness score, we don't mind if a
+player will waste some of their moves trying to move into a wall as long as they will not go out of the maze.
+
+### Mutation Rate & Arity
+
+We have found that the mutation rate and the arity of the mutation have a significant impact on the results. When using
+strict mode, the higher the mutation rate and the arity, the better the results. When not using strict mode, we found
+that also a lower mutation rate and arity can produce good results. We believe that this is because in strict mode the
+algorithm is needs to compensate for the fact that it does not allow the player to move into walls, and thus it needs to
+evolve more aggressively.
+
+### Population Size & Generations
+
+We have found that the bigger the maze is, the larger the population size and the number of generations need to be. This
+is because given a larger maze there are much more possible random solutions, and thus the algorithm needs more time to
+evolve a good solution. If we use a small population size and a small number of generations, the algorithm will not have
+enough time to evolve a good solution and will get stuck in a local minimum. In most cases, larger population size was
+more beneficial than a larger number of generations.
+
+### Max Solution Length
+
+The max solution length must be at least as long as the number of steps it takes to reach the exit. If it is smaller
+than that, the algorithm will not be able to find a solution. If it is larger than that, the algorithm will waste time
+trying to evolve solutions that are longer than the shortest solution.
+
+However, since we don't have a predefined solution length, we can't know what is the best value for this parameter. We
+have found that the best value for this parameter is the size of the maze. This is because the algorithm will try to
+evolve solutions that are as long as the maze, and thus it will have enough time to find the shortest solution. We
+reward the algorithm for finding a shorter solution, and penalize it for finding a longer solution, so through evolution
+it will find the shortest solution.
+
+## Future Work
+
+We would like to address two issues in the future that we have found during the experiment:
+
+- **Stuck At Start:** One of the most common issues that we have encountered was that all the randomly generated
+  initial solutions were stuck at the start of the maze. Their first step was always to move out of bounds or into a
+  wall. That caused them to be penalized heavily, and thus they were not able to evolve. We tried solving this issue by
+  introducing the strict mode - and it indeed helped with the wall issue, but not with the out-of-bounds issue. We
+  thought about these possible solutions:
+    - Introduce a new type of move - `stay`. This move will not change the player position, but will still count as a
+      move. This will expand the options of the player.
+    - Introduce a new very rare mutation type in addition to the existing mutation type - First move mutation. This
+      mutation will change the first move of the solution to a random move. This will allow the algorithm to evolve
+      solutions that are stuck at the start of the maze.
+
+
+- **Max Solution Length:** As mentioned above, this is not a predefined value, but rather a parameter that we set. We
+  would like to find a way to calculate the best value for this parameter, so that we don't need to set it manually. We
+  would need to collect data from numerous runs of this project, on various maze sizes, with ranging parameters, in the
+  form of `<maze size, optimal solution length>` and then use it to calculate the best value for this parameter for the
+  given maze size.
 
 ## References
 
