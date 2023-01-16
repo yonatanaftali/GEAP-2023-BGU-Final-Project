@@ -42,13 +42,10 @@ def main():
         statistics=BestAverageWorstStatistics(output_stream=open(STATISTICS_FILE, 'w'))
     )
 
-    # evolve the generated initial population
     algo.evolve()
 
-    # Execute (show) the best solution
     print(algo.execute())
 
-    # Show the statistics
     show_statistics(STATISTICS_FILE)
 
 
