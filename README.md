@@ -37,7 +37,7 @@ operators and selection methods.
 
 EC-KitY is a tool that can be used to help with genetic algorithms, it is written in Python, currently it has
 implemented Genetic Algorithm (GA) and tree-based Genetic Programming (GP), and it is
-designed to support all popular EC paradigms (GA, GP, ES, coevolution, multi-objective, etc). It is designed with modern
+designed to support all popular EC paradigms (GA, GP, ES, convolution, multi-objective, etc). It is designed with modern
 software engineering in mind, making it a comprehensive and efficient tool for running evolutionary algorithms.
 
 We are using EC-KitY to implement our genetic algorithm.
@@ -199,6 +199,34 @@ addition, we convert the "binary" maze in a visual representation, as shown belo
 Blue = Entrance, Red = Wall, White = Path, Black = Exit
 
 ![Visual Image Of Maze](images/visual-maze-1.png?raw=true "Visual Image Of Maze")
+
+### EC-KitY Configuration
+
+1. **Initialization**: We used the `GABitStringVectorCreator(length=MAX_SOLUTION_LENGTH, bounds=(0, 3))` method to create
+   the initial population. This creator creates a population of strings in the length of `MAX_SOLUTION_LENGTH` with
+   values between 0 and 3. The population size is determined by the `POPULATION_SIZE` parameter.
+
+2. **Selection**: We used the `TournamentSelection(tournament_size=4)` method to select the fittest individuals from the
+   population for reproduction. A small number of individuals (the tournament size) are randomly selected from the
+   population, and the one with the lowest fitness is chosen as a parent for the next generation.
+
+3. **Crossover**: We used the `VectorKPointsCrossover(k=1)` method to combine the genetic information of two paths to create
+   new paths. The crossover is done by selecting two paths and swapping a single step randomly.
+
+4. **Mutation**: We used the `IntVectorOnePointMutation(probability=MUTATION_RATE, arity=MUTATION_ARITY)` method to
+   introduce small changes to the genetic information of the paths. The mutation is done by randomly changing the
+   direction of a step in a path.
+
+5. **Fitness**: We created our own fitness function, `MazeEvaluator` which is described in the next section.
+
+6. **Termination**: We define max number of generations, determined by the `MAX_GENERATIONS`parameter. We didn't define a
+   TerminationChecker (early termination mechanism) since the paths are generated randomly, and we are not only
+   interested in a solution that reaches the exit, but we care for the shortest path as well. If we had used an early
+   termination mechanism, we would have missed the shortest path.
+
+7. **Statistics**: We used the `BestAverageWorstStatistics(output_stream=open(STATISTICS_FILE, 'w'))` method to collect
+   statistics about the population, such as the average fitness, the best fitness, and the best individual. We exported
+   the statistics to a file, and analyzed it.
 
 ### Solution Evaluation & Fitness Function
 
