@@ -6,12 +6,12 @@ import matplotlib.pyplot as plt
 from stack import Stack
 
 
-def break_walls(maze):
+def generate_paths(maze):
     rows = len(maze)
     cols = len(maze[0])
     for i in range(rows):
         for j in range(cols):
-            if maze[i][j] == 0 and random.random() < 0.2:
+            if maze[i][j] == 0 and random.random() < 0.1:
                 maze[i][j] = 1
 
 
@@ -95,11 +95,20 @@ def generator(rows, cols, maze_start, maze_exit):
         if exit_cell_found:
             maze_builder_stack.push(maze_exit)
 
-    # Finally, mark the entrance and exit cells as with their distinct values
+    if maze_exit[0] + 1 < rows:
+        maze[maze_exit[0] + 1][maze_exit[1]] = 1
+    if maze_exit[0] - 1 >= 0:
+        maze[maze_exit[0] - 1][maze_exit[1]] = 1
+    if maze_exit[1] + 1 < cols:
+        maze[maze_exit[0]][maze_exit[1] + 1] = 1
+    if maze_exit[1] - 1 >= 0:
+        maze[maze_exit[0]][maze_exit[1] - 1] = 1
+
     maze[maze_start[0]][maze_start[1]] = 2
     maze[maze_exit[0]][maze_exit[1]] = 3
 
-    break_walls(maze)
+    generate_paths(maze)
+
     return maze
 
 

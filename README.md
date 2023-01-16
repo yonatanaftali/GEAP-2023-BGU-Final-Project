@@ -332,40 +332,69 @@ Every run is identified by a unique timestamp, and the output files are named ac
 The results of the experiment depend on the parameters that we set and the generated maze. We ran the experiment with
 different parameters, below are the results of the experiment with the following parameters:
 
-### Maze Size 5x5, Strict Mode, Population Size 30, Generations 100, Mutation Rate 0.1, Mutation Arity 1
+### Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1
 
-![Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Maze](images/results-1-maze.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Maze")
-![Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Avg Fitness](images/results-1-avg_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Avg Fitness")
-![Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Best Fitness](images/results-1-best_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 30, Generations 100 - Best Fitness")
+![Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Maze](images/results-1-maze.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Maze")
+![Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Avg Fitness](images/results-1-avg_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Avg Fitness")
+![Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Best Fitness](images/results-1-best_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Best Fitness")
 
-### Maze Size 7x7, Strict Mode, Population Size 30, Generations 100, Mutation Rate 0.1, Mutation Arity 1
+**Solution:** `[2, 2, 1, 1, 1, 1, 0, 0, 1, 1, 2, 1, 2, 0, 1, 1, 1, 0, 1, 2, 1, 2, 3, 3, 0]`
+**Translated Solution:**
+**Fitness:** -18 (max solution length: 25)
 
-![Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Maze](images/results-2-maze.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Maze")
-![Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Avg Fitness](images/results-2-avg_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Avg Fitness")
-![Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Best Fitness](images/results-2-best_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 30, Generations 100 - Best Fitness")
+### Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2
 
-### Maze Size 10x10, Strict Mode, Population Size 300, Generations 200, Mutation Rate 0.2, Mutation Arity 2
+![Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Maze](images/results-2-maze.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Maze")
+![Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness](images/results-2-avg_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness")
+![Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness](images/results-2-best_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness")
 
-![Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Maze](images/results-3-maze.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Maze")
-![Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Avg Fitness](images/results-3-avg_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Avg Fitness")
-![Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Best Fitness](images/results-3-best_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 300, Generations 200 - Best Fitness")
+**Solution:
+** `[1, 1, 0, 0, 2, 0, 0, 1, 1, 1, 3, 3, 1, 1, 1, 3, 3, 2, 0, 0, 3, 0, 0, 0, 0, 1, 0, 2, 0, 0, 3, 2, 0, 2, 3, 0, 3, 0, 3, 2, 2, 2, 3, 3, 3, 0, 2, 0, 3]`
+**Translated Solution:**
+**Fitness:** -35 (max solution length: 49)
 
-### Maze Size 12x12, Population Size 300, Generations 300, Mutation Rate 0.2, Mutation Arity 10
+### Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5
 
-As you can see in this example the algorithm was not able to find a solution to the maze - but it got very close to it.
-The best fitness is 2, which means that the player distance from the exit is 2.
+![Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Maze](images/results-3-maze.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Maze")
+![Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Avg Fitness](images/results-3-avg_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Avg Fitness")
+![Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Best Fitness](images/results-3-best_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Best Fitness")
 
-![Maze Size 12x12, Population Size 300, Generations 300 - Maze](images/results-4-maze.png?raw=true "Maze Size 12x12, Population Size 300, Generations 300 - Maze")
-![Maze Size 12x12, Population Size 300, Generations 300 - Avg Fitness](images/results-4-avg_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 300 - Avg Fitness")
-![Maze Size 12x12, Population Size 300, Generations 300 - Best Fitness](images/results-4-best_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 300 - Best Fitness")
+**Solution:
+** `[1, 0, 1, 3, 2, 0, 1, 1, 2, 1, 3, 1, 3, 2, 2, 1, 2, 0, 3, 1, 2, 0, 1, 0, 2, 1, 1, 2, 1, 1, 0, 0, 0, 3, 2, 0, 0, 2, 3, 1, 0, 2, 1, 2, 2, 0, 1, 1, 3, 1, 1, 0, 0, 0, 2, 0, 3, 0, 0, 0, 3, 1, 0, 2, 2, 3, 0, 0, 2, 0, 3, 2, 3, 3, 1, 0, 3, 0, 0, 1, 1, 3, 1, 3, 2, 2, 1, 1, 3, 2, 2, 3, 1, 0, 3, 3, 0, 3, 2, 1]`
+**Translated Solution:**
+**Fitness:** -70 (max solution length: 100)
 
-### Maze Size 12x12, Population Size 500, Generations 500, Mutation Rate 0.2, Mutation Arity 10
+### Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1
 
-By increasing the population size, we were able to find a solution to the maze.
+![Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Maze](images/results-4-maze.png?raw=true "Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Maze")
+![Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Avg Fitness](images/results-4-avg_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Avg Fitness")
+![Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Best Fitness](images/results-4-best_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Best Fitness")
 
-![Maze Size 12x12, Population Size 500, Generations 500 - Maze](images/results-5-maze.png?raw=true "Maze Size 12x12, Population Size 500, Generations 500 - Maze")
-![Maze Size 12x12, Population Size 500, Generations 500 - Avg Fitness](images/results-5-avg_fitness.png?raw=true "Maze Size 12x12, Population Size 500, Generations 500 - Avg Fitness")
-![Maze Size 12x12, Population Size 500, Generations 500 - Best Fitness](images/results-5-best_fitness.png?raw=true "Maze Size 12x12, Population Size 500, Generations 500 - Best Fitness")
+**Solution:
+** `[0, 0, 0, 2, 1, 2, 3, 0, 1, 2, 3, 0, 1, 1, 2, 0, 3, 1, 0, 2, 0, 0, 3, 0, 0, 1, 0, 2, 0, 2, 3, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 3, 1, 1, 1, 0, 2, 2, 2, 0, 1, 2, 2, 1, 0, 0, 1, 2, 1, 0, 3, 1, 2, 0, 0, 3, 1, 1, 2, 3, 2, 0, 1, 0, 3, 2, 1, 0, 1, 2, 2, 0, 3, 1, 1, 1, 0, 0, 1, 2, 2, 1, 0, 0, 2, 3, 3, 1, 1, 1, 0, 2, 3, 2, 1, 2, 0, 0, 0, 3, 2, 3, 3, 3, 2, 0, 1, 1, 3, 2, 0, 3, 3, 3, 0, 2, 0, 1, 3, 1, 0, 2, 0, 0, 3]`
+**Translated Solution:**
+**Fitness:** -89 (max solution length: 144)
+
+### Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2
+
+In the following example we can see how more generations are needed to find a solution.
+
+![Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Maze](images/results-5-maze.png?raw=true "Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Maze")
+![Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness](images/results-5-avg_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness")
+![Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness](images/results-5-best_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness")
+
+### Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2
+
+In the following example we can see how more generations are needed to find a solution.
+
+![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Maze](images/results-5-maze.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Maze")
+![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness](images/results-5-avg_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness")
+![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness](images/results-5-best_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness")
+
+**Solution:
+** `[0, 1, 1, 0, 1, 3, 1, 1, 2, 2, 1, 3, 1, 0, 2, 3, 0, 3, 1, 3, 0, 0, 1, 1, 1, 2, 0, 2, 2, 1, 3, 2, 1, 1, 3, 3, 1, 0, 1, 3, 1, 2, 0, 1, 0, 2, 0, 0, 2, 2, 3, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 3, 1, 3, 1, 3, 0, 3, 1, 1, 3, 3, 1, 3, 0, 0, 1, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 3, 2, 0, 2, 0, 2, 0, 1, 1, 2, 1, 1, 2, 0, 2, 1, 2, 3, 0, 3, 1, 1, 3, 1, 0, 1, 0, 1, 1, 1, 1, 1, 2, 0, 0, 1, 2, 1, 1, 1, 1, 0, 0, 2, 1, 0, 2, 1, 2, 2, 1, 1, 2, 2, 3, 0, 0, 2, 1, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 3, 3, 0, 3, 3, 0, 3, 3, 0, 0, 2, 0, 2, 1, 3, 3, 0, 1, 0, 1, 0, 1, 0, 3, 2, 3, 3, 2, 1, 3, 1, 2, 0, 0, 0, 3, 2, 2, 3, 2, 2, 1, 3, 1, 2, 2, 3, 3, 3, 1, 0, 0, 0, 1, 2, 0, 3, 1, 2, 0, 3, 0, 1, 3, 2, 2, 2, 1, 3, 0, 1, 2, 0, 0, 0, 3, 3, 1, 0, 0, 2, 0, 3, 3, 3, 0, 2, 2, 0, 1, 2, 2, 1, 1, 3, 2, 3, 0, 3, 2, 2, 1, 2, 1, 0, 0, 1, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 0, 2, 3, 2, 1, 3, 0, 0, 0, 3, 0, 0, 2, 0, 3, 2, 2, 3, 0, 3, 1, 2, 1, 2, 0, 0, 2, 1, 1, 2, 0, 2, 3, 3, 2, 0, 3, 0, 0, 0, 2, 0, 0, 1, 3, 0, 1, 3, 0, 3, 3, 0, 1, 0, 2, 3, 0, 0, 2, 3, 0, 0, 3, 3, 1, 1, 1, 0, 2, 3, 1, 1, 2, 3, 0, 3, 2, 3, 2, 3, 0, 0, 3, 0, 0, 0, 3, 2, 2, 3, 0, 3, 1, 2, 0, 1, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 3, 3, 2, 0, 3, 0, 0, 3, 0, 2, 2]`
+**Translated Solution:**
+**Fitness:** -261 (max solution length: 144)
 
 ## Conclusions & Summary
 
