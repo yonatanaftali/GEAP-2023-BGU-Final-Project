@@ -140,8 +140,9 @@ Overview section.
    mutation steps for a number of generations, until the optimal or near-optimal solution is found.
 
 
-8. **Termination:** The algorithm stops when a termination criterion is met. This can be a certain number ofz
-   generations, or when a suggested solution path reaches a certain level of fitness.
+8. **Termination:** The algorithm stops when a termination criterion is met, after a certain number of generations. If
+   we'd only look for a solution, and not the shortest solution, we could add an early termination checker to terminate
+   when reaching the optimal fitness - 0.
 
 
 9. **Output:** The final output is the path that has the lowest fitness score and is considered to be the optimal or
