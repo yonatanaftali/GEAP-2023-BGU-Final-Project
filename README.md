@@ -338,8 +338,9 @@ different parameters, below are the results of the experiment with the following
 ![Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Avg Fitness](images/results-1-avg_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Avg Fitness")
 ![Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Best Fitness](images/results-1-best_fitness.png?raw=true "Maze Size 5x5, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.1, Mutation Arity 1 - Best Fitness")
 
-**Solution:** `[2, 2, 1, 1, 1, 1, 0, 0, 1, 1, 2, 1, 2, 0, 1, 1, 1, 0, 1, 2, 1, 2, 3, 3, 0]`
 **Translated Solution:**
+`[down, down, right, right, right, right, up, up, right, right, down, right, down, up, right, right, right, up, right, down, right, down, left, left, up]`
+
 **Fitness:** -18 (max solution length: 25)
 
 ### Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2
@@ -348,9 +349,9 @@ different parameters, below are the results of the experiment with the following
 ![Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness](images/results-2-avg_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness")
 ![Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness](images/results-2-best_fitness.png?raw=true "Maze Size 7x7, Strict Mode, Population Size 50, Generations 30, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness")
 
-**Solution:
-** `[1, 1, 0, 0, 2, 0, 0, 1, 1, 1, 3, 3, 1, 1, 1, 3, 3, 2, 0, 0, 3, 0, 0, 0, 0, 1, 0, 2, 0, 0, 3, 2, 0, 2, 3, 0, 3, 0, 3, 2, 2, 2, 3, 3, 3, 0, 2, 0, 3]`
 **Translated Solution:**
+`[right, right, up, up, down, up, up, right, right, right, left, left, right, right, right, left, left, down, up, up, left, up, up, up, up, right, up, down, up, up, left, down, up, down, left, up, left, up, left, down, down, down, left, left, left, up, down, up, left]`
+
 **Fitness:** -35 (max solution length: 49)
 
 ### Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5
@@ -359,9 +360,9 @@ different parameters, below are the results of the experiment with the following
 ![Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Avg Fitness](images/results-3-avg_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Avg Fitness")
 ![Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Best Fitness](images/results-3-best_fitness.png?raw=true "Maze Size 10x10, Strict Mode, Population Size 500, Generations 200, Mutation Rate 0.2, Mutation Arity 5 - Best Fitness")
 
-**Solution:
-** `[1, 0, 1, 3, 2, 0, 1, 1, 2, 1, 3, 1, 3, 2, 2, 1, 2, 0, 3, 1, 2, 0, 1, 0, 2, 1, 1, 2, 1, 1, 0, 0, 0, 3, 2, 0, 0, 2, 3, 1, 0, 2, 1, 2, 2, 0, 1, 1, 3, 1, 1, 0, 0, 0, 2, 0, 3, 0, 0, 0, 3, 1, 0, 2, 2, 3, 0, 0, 2, 0, 3, 2, 3, 3, 1, 0, 3, 0, 0, 1, 1, 3, 1, 3, 2, 2, 1, 1, 3, 2, 2, 3, 1, 0, 3, 3, 0, 3, 2, 1]`
 **Translated Solution:**
+`[right, up, right, left, down, up, right, right, down, right, left, right, left, down, down, right, down, up, left, right, down, up, right, up, down, right, right, down, right, right, up, up, up, left, down, up, up, down, left, right, up, down, right, down, down, up, right, right, left, right, right, up, up, up, down, up, left, up, up, up, left, right, up, down, down, left, up, up, down, up, left, down, left, left, right, up, left, up, up, right, right, left, right, left, down, down, right, right, left, down, down, left, right, up, left, left, up, left, down, right]`
+
 **Fitness:** -70 (max solution length: 100)
 
 ### Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1
@@ -370,9 +371,9 @@ different parameters, below are the results of the experiment with the following
 ![Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Avg Fitness](images/results-4-avg_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Avg Fitness")
 ![Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Best Fitness](images/results-4-best_fitness.png?raw=true "Maze Size 12x12, Population Size 300, Generations 30, Mutation Rate 0.2, Mutation Arity 1 - Best Fitness")
 
-**Solution:
-** `[0, 0, 0, 2, 1, 2, 3, 0, 1, 2, 3, 0, 1, 1, 2, 0, 3, 1, 0, 2, 0, 0, 3, 0, 0, 1, 0, 2, 0, 2, 3, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 3, 1, 1, 1, 0, 2, 2, 2, 0, 1, 2, 2, 1, 0, 0, 1, 2, 1, 0, 3, 1, 2, 0, 0, 3, 1, 1, 2, 3, 2, 0, 1, 0, 3, 2, 1, 0, 1, 2, 2, 0, 3, 1, 1, 1, 0, 0, 1, 2, 2, 1, 0, 0, 2, 3, 3, 1, 1, 1, 0, 2, 3, 2, 1, 2, 0, 0, 0, 3, 2, 3, 3, 3, 2, 0, 1, 1, 3, 2, 0, 3, 3, 3, 0, 2, 0, 1, 3, 1, 0, 2, 0, 0, 3]`
 **Translated Solution:**
+`[up, up, up, down, right, down, left, up, right, down, left, up, right, right, down, up, left, right, up, down, up, up, left, up, up, right, up, down, up, down, left, right, right, down, right, right, right, right, down, right, right, up, up, up, up, right, up, right, right, up, left, right, right, right, up, down, down, down, up, right, down, down, right, up, up, right, down, right, up, left, right, down, up, up, left, right, right, down, left, down, up, right, up, left, down, right, up, right, down, down, up, left, right, right, right, up, up, right, down, down, right, up, up, down, left, left, right, right, right, up, down, left, down, right, down, up, up, up, left, down, left, left, left, down, up, right, right, left, down, up, left, left, left, up, down, up, right, left, right, up, down, up, up, left]`
+
 **Fitness:** -89 (max solution length: 144)
 
 ### Maze Size 20x20, Population Size 500, Generations 30, Mutation Rate 0.2, Mutation Arity 2
@@ -391,9 +392,9 @@ In the following example we can see how more generations are needed to find a so
 ![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness](images/results-5-avg_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness")
 ![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness](images/results-5-best_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness")
 
-**Solution:
-** `[0, 1, 1, 0, 1, 3, 1, 1, 2, 2, 1, 3, 1, 0, 2, 3, 0, 3, 1, 3, 0, 0, 1, 1, 1, 2, 0, 2, 2, 1, 3, 2, 1, 1, 3, 3, 1, 0, 1, 3, 1, 2, 0, 1, 0, 2, 0, 0, 2, 2, 3, 1, 2, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 3, 1, 3, 1, 3, 0, 3, 1, 1, 3, 3, 1, 3, 0, 0, 1, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 3, 2, 0, 2, 0, 2, 0, 1, 1, 2, 1, 1, 2, 0, 2, 1, 2, 3, 0, 3, 1, 1, 3, 1, 0, 1, 0, 1, 1, 1, 1, 1, 2, 0, 0, 1, 2, 1, 1, 1, 1, 0, 0, 2, 1, 0, 2, 1, 2, 2, 1, 1, 2, 2, 3, 0, 0, 2, 1, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 3, 3, 0, 3, 3, 0, 3, 3, 0, 0, 2, 0, 2, 1, 3, 3, 0, 1, 0, 1, 0, 1, 0, 3, 2, 3, 3, 2, 1, 3, 1, 2, 0, 0, 0, 3, 2, 2, 3, 2, 2, 1, 3, 1, 2, 2, 3, 3, 3, 1, 0, 0, 0, 1, 2, 0, 3, 1, 2, 0, 3, 0, 1, 3, 2, 2, 2, 1, 3, 0, 1, 2, 0, 0, 0, 3, 3, 1, 0, 0, 2, 0, 3, 3, 3, 0, 2, 2, 0, 1, 2, 2, 1, 1, 3, 2, 3, 0, 3, 2, 2, 1, 2, 1, 0, 0, 1, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 0, 2, 3, 2, 1, 3, 0, 0, 0, 3, 0, 0, 2, 0, 3, 2, 2, 3, 0, 3, 1, 2, 1, 2, 0, 0, 2, 1, 1, 2, 0, 2, 3, 3, 2, 0, 3, 0, 0, 0, 2, 0, 0, 1, 3, 0, 1, 3, 0, 3, 3, 0, 1, 0, 2, 3, 0, 0, 2, 3, 0, 0, 3, 3, 1, 1, 1, 0, 2, 3, 1, 1, 2, 3, 0, 3, 2, 3, 2, 3, 0, 0, 3, 0, 0, 0, 3, 2, 2, 3, 0, 3, 1, 2, 0, 1, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 3, 3, 2, 0, 3, 0, 0, 3, 0, 2, 2]`
 **Translated Solution:**
+`[up, right, right, up, right, left, right, right, down, down, right, left, right, up, down, left, up, left, right, left, up, up, right, right, right, down, up, down, down, right, left, down, right, right, left, left, right, up, right, left, right, down, up, right, up, down, up, up, down, down, left, right, down, right, right, right, up, up, up, up, up, up, right, left, right, left, right, left, up, left, right, right, left, left, right, left, up, up, right, right, left, up, up, up, up, right, up, right, up, left, down, up, down, up, down, up, right, right, down, right, right, down, up, down, right, down, left, up, left, right, right, left, right, up, right, up, right, right, right, right, right, down, up, up, right, down, right, right, right, right, up, up, down, right, up, down, right, down, down, right, right, down, down, left, up, up, down, right, right, up, up, right, right, down, right, up, up, up, down, left, left, up, left, left, up, left, left, up, up, down, up, down, right, left, left, up, right, up, right, up, right, up, left, down, left, left, down, right, left, right, down, up, up, up, left, down, down, left, down, down, right, left, right, down, down, left, left, left, right, up, up, up, right, down, up, left, right, down, up, left, up, right, left, down, down, down, right, left, up, right, down, up, up, up, left, left, right, up, up, down, up, left, left, left, up, down, down, up, right, down, down, right, right, left, down, left, up, left, down, down, right, down, right, up, up, right, down, down, down, right, right, up, up, up, up, up, up, up, left, up, down, left, up, down, left, down, right, left, up, up, up, left, up, up, down, up, left, down, down, left, up, left, right, down, right, down, up, up, down, right, right, down, up, down, left, left, down, up, left, up, up, up, down, up, up, right, left, up, right, left, up, left, left, up, right, up, down, left, up, up, down, left, up, up, left, left, right, right, right, up, down, left, right, right, down, left, up, left, down, left, down, left, up, up, left, up, up, up, left, down, down, left, up, left, right, down, up, right, down, right, left, down, right, down, down, right, right, right, right, left, left, down, up, left, up, up, left, up, down, down]`
+
 **Fitness:** -261 (max solution length: 144)
 
 ## Conclusions & Summary
