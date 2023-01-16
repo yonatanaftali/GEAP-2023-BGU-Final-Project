@@ -21,6 +21,7 @@ global MAZE_ROWS, MAZE_COLS, MAX_SOLUTION_LENGTH, POPULATION_SIZE, MUTATION_RATE
 def main():
     global MAZE_ROWS, MAZE_COLS, MAX_SOLUTION_LENGTH, POPULATION_SIZE, MUTATION_RATE, MUTATION_ARITY, GENERATIONS, \
         STRICT, INVALID_SOLUTION_PENALTY, WALL_PENALTY, RUN_START_TIME, STATISTICS_FILE
+    f = open(STATISTICS_FILE, 'w')
     algo = SimpleEvolution(
         Subpopulation(creators=GABitStringVectorCreator(length=MAX_SOLUTION_LENGTH, bounds=(0, 3)),
                       population_size=POPULATION_SIZE,
@@ -39,13 +40,14 @@ def main():
         breeder=SimpleBreeder(),
         max_workers=1,
         max_generation=GENERATIONS,
-        statistics=BestAverageWorstStatistics(output_stream=open(STATISTICS_FILE, 'w'))
+        statistics=BestAverageWorstStatistics(output_stream=f)
     )
 
     algo.evolve()
 
     print(algo.execute())
 
+    f.close()
     show_statistics(STATISTICS_FILE)
 
 
