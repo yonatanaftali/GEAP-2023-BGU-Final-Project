@@ -42,7 +42,8 @@ software engineering in mind, making it a comprehensive and efficient tool for r
 
 We are using EC-KitY to implement our genetic algorithm.
 
-We contributed our share by solving an [existing issue](https://github.com/EC-KitY/EC-KitY/issues/4) in the EC-Kity repository with [this PR](https://github.com/EC-KitY/EC-KitY/pull/35).
+We contributed our share by solving an [existing issue](https://github.com/EC-KitY/EC-KitY/issues/4) in the EC-Kity
+repository with [this PR](https://github.com/EC-KitY/EC-KitY/pull/35).
 
 ## Problem Description
 
@@ -167,6 +168,20 @@ We allow the user to control some important parameters of the algorithm, includi
 
 This is done by using an [environment file](./.env), which is a file that contains the parameters.
 Default values based on our experimentation will be used if not provided in the environment file.
+
+### Running The Project
+
+After configuring the environment file, you'll need to install the project dependencies using `pip`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then, you can run the project using the following command:
+
+```bash
+python main.py
+```
 
 ### Maze Representation
 
