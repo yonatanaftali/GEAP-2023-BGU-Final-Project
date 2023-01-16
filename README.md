@@ -42,6 +42,8 @@ software engineering in mind, making it a comprehensive and efficient tool for r
 
 We are using EC-KitY to implement our genetic algorithm.
 
+We contributed our share by solving an [existing issue](https://github.com/EC-KitY/EC-KitY/issues/4) in the EC-Kity repository with [this PR](https://github.com/EC-KitY/EC-KitY/pull/35).
+
 ## Problem Description
 
 The problem we are trying to solve is **the maze problem**.
