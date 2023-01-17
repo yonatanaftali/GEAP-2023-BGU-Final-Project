@@ -387,8 +387,6 @@ In the following example we can see how more generations are needed to find a so
 
 ### Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2
 
-In the following example we can see how more generations are needed to find a solution.
-
 ![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Maze](images/results-6-maze.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Maze")
 ![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness](images/results-6-avg_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Avg Fitness")
 ![Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness](images/results-6-best_fitness.png?raw=true "Maze Size 20x20, Population Size 500, Generations 100, Mutation Rate 0.2, Mutation Arity 2 - Best Fitness")
