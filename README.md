@@ -306,6 +306,11 @@ Then we check if the new position is valid:
 - If the new position is a **walkable** position, it means that the player has moved to a valid position. In this case,
   we update the current position of the player to the new position, and we continue to the next step in the path.
 
+The distance from the exit is calculated by using the Euclidian distance from the current point of the player (i.e the
+player coordinates in the matrix) to the exit coordinates. We found that this distance formulae give us the best
+assessment to the relative location of the player the exit, without going into complicated calculations of traversal
+inside the maze.
+
 Thus, an individual's fitness score signifies how close it is to the exit, and how many steps it took to reach it. The
 best individual is the one with the lowest fitness score (i.e. the one that is closest to the exit and took the least
 steps to reach it), and we want to keep and evolve the best individuals.
@@ -408,7 +413,8 @@ us think about the necessity of strict mode. Take a look at the following maze:
 The best solution the algorithm provided for that maze
 was: `[0, 0, 2, 0, 1, 0, 2, 1, 3, 1, 2, 0, 2, 1, 1, 2, 3, 3, 1, 3, 2, 1, 3, 1, 0, 1, 2, 0, 1, 0, 2, 1, 3, 1, 0, 3, 2, 2, 3, 3, 0, 1, 0, 1, 3, 1, 3, 1, 0]`
 which translate
-to: `[up, up, down, up, right, up, down, right, left, right, down, up, down, right, right, down, left, left, right, left, down, right, left, right, up, right, down, up, right, up, down, right, left, right, up, left, down, down, left, left, up, right, up, right, left, right, left, right, up]`.
+to: `[up, up, down, up, right, up, down, right, left, right, down, up, down, right, right, down, left, left, right, left, down, right, left, right, up, right, down, up, right, up, down, right, left, right, up, left, down, down, left, left, up, right, up, right, left, right, left, right, up]`
+.
 
 If we follow the first 15 steps of the solution, we will get to the position (4,5), very close to the exit. However, in
 the next move the player will try to move down into a wall thus the solution will be invalidated and severely penalized.
