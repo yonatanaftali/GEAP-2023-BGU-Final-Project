@@ -306,7 +306,7 @@ Then we check if the new position is valid:
 - If the new position is a **walkable** position, it means that the player has moved to a valid position. In this case,
   we update the current position of the player to the new position, and we continue to the next step in the path.
 
-The distance from the exit is calculated by using the Euclidian distance from current point of the player (i.e the
+The distance from the exit is calculated by using the Euclidian distance from the current point of the player (i.e the
 player coordinates in the matrix) to the exit coordinates. We found that this distance formulae give us the best
 assessment to the relative location of the player the exit, without going into complicated calculations of traversal
 inside the maze.
